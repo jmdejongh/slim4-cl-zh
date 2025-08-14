@@ -1,0 +1,71 @@
+git SLIMSTOCK EUROPE BV SOFTWARE LICENSE AGREEMENT
+
+1. Ownership of Software
+You acknowledge and agree that all of the computer programs and associated
+documentation (collectively, the "Software") are owned exclusively by the
+Licensor of Slimstock Europe BV.
+You agree that the price paid by you for the Software is a license fee
+granting you only the rights set forth in this License Agreement.
+
+2. License
+Slimstock Europe BV grants to you, and you accept, a limited, non-exclusive
+and revocable license to use the Software, in machine-readable, object code
+form only. You agree to use the Software only as authorized in this
+License Agreement.
+This License Agreement does not convey to you any ownership rights or any
+other interest in the Software.
+
+3. Scope of license
+This Software is licensed to be installed and used on only one computer.
+A valid license must be purchased or rented for each computer on which the
+Software is installed.
+You may not copy or make any changes or modifications to the Software,
+and you may not decompile, disassemble, or otherwise reverse engineer the
+computer program(s). You may not lend, rent, lease or sublicense the
+Software or any copy to others for any purpose. You agree to use all reasonable
+efforts to protect the Software from unauthorized use, modification, reproduction,
+distribution or publication. You are not permitted to make any uses or copies of
+the Software that are not specifically authorized by the terms of this
+License Agreement, and Slimstock Europe BV reserves all rights that are not
+expressly granted to you. Your adherence to this License Agreement will allow
+Slimstock Europe BV to continue developing innovative and useful products and
+providing a high level of customer service and support.
+
+4. Term
+This license will only become effective when the Software has been installed and
+you have signed off the Software Installation document or a separate license agreement.
+The agreement will remain in force until terminated. You may terminate the license at
+any time. In case of rental, the License expires at the end of the rental period.
+This license will automatically terminate if you breach any of the terms or conditions
+set out in this License Agreement. You agree to remove the Software from your computer,
+and either to destroy the original Software and all copies of the Software or to return
+the Software to Slimstock Europe BV, upon termination.
+
+5. Transfer
+You may not transfer your license to another party. You may not transfer your license to
+another party by selling or transferring ownership of the computer on which the Software
+is installed. The Software must first be uninstalled from any computer on which the
+Software is installed before transferring ownership of the computer.
+Your software license is terminated upon sale or transfer of the computer on which
+the Software is installed.
+
+6. Backup copy
+You may make one copy of this Software solely for backup or archival purposes.
+
+7. Limited warranty
+Slimstock Europe BV specifically disclaims all other warranties, express or implied,
+including but not limited to implied warranties of merchantability and fitness for a
+particular purpose. Slimstock Europe BV does not provide any warranty as to the operation
+of the software or its fitness for any particular application, use or purpose.
+
+8. Limitations of liability and remedies
+In no event shall Slimstock Europe BV or its licensors be liable for any loss of profit
+or any other commercial damage, including but not limited to special, incidental,
+consequential, punitive or other damages, even if Slimstock Europe BV or its licensors
+are advised, in advance, of the possibility of such damages. In no event shall the
+liability of Slimstock Europe BV or its licensors exceed the purchase price paid
+for the Software.
+
+9. Other terms and conditions
+This Agreement shall in all aspects be governed by the laws of the Netherlands exclusively.
+All disputes shall be brought before the courts of The Hague, the Netherlands.
