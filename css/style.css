@@ -1,4 +1,5 @@
-@import url("https://raw.githubusercontent.com/jmdejongh/slim4-cl-zh/refs/heads/main/css/style.css");
+@import "main.css";
+@import "animation.css";
 
 .sdg-highlight,
 .sdg-highlight-children > * {
