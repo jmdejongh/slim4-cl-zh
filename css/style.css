@@ -1,4 +1,5 @@
-@import "main.css";
+@import url("https://raw.githubusercontent.com/jmdejongh/slim4-cl-zh/refs/heads/main/css/style.css");
+
 .sdg-highlight,
 .sdg-highlight-children > * {
 	background-color: hsl(var(--_slim-color-fandango-40), 0.25);
