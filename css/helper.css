@@ -1,6 +1,3 @@
-@import "main.css";
-@import "animation.css";
-
 .sdg-highlight,
 .sdg-highlight-children > * {
 	background-color: hsl(var(--_slim-color-fandango-40), 0.25);
