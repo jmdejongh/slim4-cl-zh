@@ -1,6 +1,7 @@
 body {
 	font-family: var(--slim-font-family);
 	font-size: var(--slim-text-size-body-medium);
+	color: var(--slim-schedule-text-color);
 }
 
 .sdg-highlight,
