@@ -1,0 +1,10 @@
+:root {
+	--slim-transition-fastest: 64ms;
+	--slim-transition-fast: 128ms;
+	--slim-transition-medium: 256ms;
+	--slim-transition-medium-slow: 384ms;
+	--slim-transition-slow: 512ms;
+	--slim-ease-out-quad: cubic-bezier(0.250, 0.460, 0.450, 0.940);
+	--slim-ease-in-quad: cubic-bezier(0.550, 0.085, 0.680, 0.530);
+}
+
