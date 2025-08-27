@@ -1,3 +1,8 @@
+body {
+	font-family: var(--slim-font-family);
+	font-size: var(--slim-text-size-body-medium);
+}
+
 .sdg-highlight,
 .sdg-highlight-children > * {
 	background-color: hsl(var(--_slim-color-fandango-40), 0.25);
